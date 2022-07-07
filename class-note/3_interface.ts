@@ -34,7 +34,7 @@ sum1 = function (a: number, b: number): number {
 interface StringArray {
   [index: number]: string;
 }
-var arr: StringArray = ['a', 'b', 'c'];
+var arr2: StringArray = ['a', 'b', 'c'];
 // arr[0] = 10;
 
 //딕셔너리 패턴
